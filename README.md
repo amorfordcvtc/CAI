@@ -1,2 +1,0 @@
-# CAI
-c elegans AI
